@@ -48,7 +48,7 @@ h2  {
 
 #home {
     /* background-color: rgb(210, 252, 252); */
-    background-image: url("/images/gifimage.gif");
+    background-image: url("images/gifimage.gif");
     background-repeat: no-repeat ;
     background-size: 100% ;
     padding: 8% ;
